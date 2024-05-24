@@ -2,8 +2,8 @@
 
 int main() {
     int i = 0;
-    while (i < 11) {
-        std::cout<< "hi there, friend its me" << std::endl;
+    while (i < 20) {
+        std::cout<< "no its not me" << std::endl;
         i++;
     }
     return 0;
